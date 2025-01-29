@@ -43,3 +43,25 @@ Before starting, ensure you have the following installed:
 git clone https://github.com/sinantech/hotelapi-fe.git
 cd hotelapi-fe
 ```
+
+### 2.Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Configure Environment Variables
+
+```bash
+VITE_API_BASE_URL=http://localhost:8080/api
+```
+
+### 4. Run the Development Server
+
+```bash
+npm run dev
+```
+
+## Author
+
+Sinan Can Ozer
